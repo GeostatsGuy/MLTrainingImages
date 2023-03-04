@@ -32,6 +32,8 @@ For more about Michael check out these links:
 
 Misael's research is focused on the computational description of subsurface energy systems. He combines domain-specific knowledge with tools from machine learning, math and statistics, for accurate characterization and forecasting of complex dynamical systems in the subsurface. 
 
+For more about Misael check out these links:
+
 #### [GitHub](https://github.com/misaelmmorales) | [Website](https://sites.google.com/view/misaelmmorales) | [LinkedIn](https://www.linkedin.com/in/misaelmmorales/)
 
 #### Want to Work Together?
