@@ -27,7 +27,7 @@ For more about Michael check out these links:
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
-#### Misael Morales, PhD Aspirant, The University of Texas at Austin
+#### Misael M. Morales, PhD Aspirant, The University of Texas at Austin
 *Machine learning and data science applications for reservoir modeling, simulation, and characterization*
 
 Misael's research is focused on the computational description of subsurface energy systems. He combines domain-specific knowledge with tools from machine learning, math and statistics, for accurate characterization and forecasting of complex dynamical systems in the subsurface. 
