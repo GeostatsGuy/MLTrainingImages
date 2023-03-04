@@ -14,8 +14,6 @@ Please cite as:
 
 Pyrcz, Michael J. and Morales, Misael M. (2023). Machine Learning Training Images Repository (1.0.0). Zenodo. TBD
 
-
-
 #### The Authors:
 
 ### Michael Pyrcz, Professor, The University of Texas at Austin 
@@ -35,6 +33,8 @@ Misael's research is focused on the computational description of subsurface ener
 For more about Misael check out these links:
 
 #### [GitHub](https://github.com/misaelmmorales) | [Website](https://sites.google.com/view/misaelmmorales) | [LinkedIn](https://www.linkedin.com/in/misaelmmorales/)
+
+***
 
 #### Want to Work Together?
 
