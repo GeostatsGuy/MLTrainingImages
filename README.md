@@ -6,7 +6,7 @@
 
 ## Professor Michael Pyrcz, The University of Texas at Austin
 
-## Misael Morales, The University of Texas at Austin
+## Misael M. Morales, The University of Texas at Austin
 
 A collection of training images in NumPy and Matlab 3D array formats.
 
