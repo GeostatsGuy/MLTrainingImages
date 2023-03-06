@@ -6,15 +6,13 @@
 
 ## Professor Michael Pyrcz, The University of Texas at Austin
 
-## Misael Morales, The University of Texas at Austin
+## Misael M. Morales, The University of Texas at Austin
 
 A collection of training images in NumPy and Matlab 3D array formats.
 
 Please cite as:
 
-Pyrcz, Michael J. and Morales, Misael (2023). Machine Learning Training Images Repository (1.0.0). Zenodo. TBD
-
-
+Pyrcz, Michael J. and Morales, Misael M. (2023). Machine Learning Training Images Repository (1.0.0). Zenodo. TBD
 
 #### The Authors:
 
@@ -27,7 +25,16 @@ For more about Michael check out these links:
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
-#### Misael Morales, PhD Aspiriant, The University of Texas at Austin
+#### Misael M. Morales, PhD Aspirant, The University of Texas at Austin
+*Machine learning and data science applications for reservoir modeling, simulation, and characterization*
+
+Misael's research is focused on the computational description of subsurface energy systems. He combines domain-specific knowledge with tools from machine learning, math and statistics, for accurate characterization and forecasting of complex dynamical systems in the subsurface. 
+
+For more about Misael check out these links:
+
+#### [GitHub](https://github.com/misaelmmorales) | [Website](https://sites.google.com/view/misaelmmorales) | [LinkedIn](https://www.linkedin.com/in/misaelmmorales/)
+
+***
 
 #### Want to Work Together?
 
