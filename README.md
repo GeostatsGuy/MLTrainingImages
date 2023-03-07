@@ -12,7 +12,7 @@ A collection of training images in NumPy and Matlab 3D array formats.
 
 Please cite as:
 
-Pyrcz, Michael J. and Morales, Misael M. (2023). Machine Learning Training Images Repository (1.0.0). Zenodo. DOI: 10.5281/zenodo.7702128 
+Pyrcz, Michael J. and Morales, Misael M. (2023). Machine Learning Training Images Repository (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7702128 
 
 The initial training images were published as:
 
