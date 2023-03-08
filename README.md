@@ -8,7 +8,7 @@
 
 ## Misael M. Morales, The University of Texas at Austin
 
-A collection of training images in NumPy and Matlab 3D array formats.
+*A collection of spatial, subsurface training images in NumPy and Matlab 3D array formats. Training images are 3D and represent common clastic sedimentary systems, e.g., deepwater and fluvial.* 
 
 Please cite as:
 
