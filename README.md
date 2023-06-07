@@ -18,7 +18,7 @@ The initial training images were published as:
 
 Pyrcz, M.J., Boisvert, J.B. and Deutsch, C.V., 2008, A library of training images for fluvial and deepwater reservoirs and associated code, Computers & Geosciences, 34(5), p. 542-560, https://doi.org/10.1016/j.cageo.2007.05.015.
 
-we will continue to expand the training images and to grow the support codes and workflows.
+We will continue to expand the training images and to grow the support codes and workflows.
 
 #### The Authors:
 
