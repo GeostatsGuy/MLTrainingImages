@@ -1,4 +1,4 @@
-import os                       # os operations
+import os                       # OS operations
 import numpy as np              # arrays and operations
 import pandas as pd             # dataframes 
 from scipy.io import savemat    # save as .mat
