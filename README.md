@@ -18,7 +18,7 @@ The initial training images were published as:
 
 Pyrcz, M.J., Boisvert, J.B. and Deutsch, C.V., 2008, A library of training images for fluvial and deepwater reservoirs and associated code, Computers & Geosciences, 34(5), p. 542-560, https://doi.org/10.1016/j.cageo.2007.05.015.
 
-we will continue to expand the training images and to grow the support codes and workflows.
+We will continue to expand the training images and to grow the support codes and workflows.
 
 #### The Authors:
 
@@ -31,7 +31,7 @@ For more about Michael check out these links:
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
-#### Misael M. Morales, PhD Aspirant, The University of Texas at Austin
+### Misael M. Morales, PhD Candidate, The University of Texas at Austin
 *Machine learning and data science applications for reservoir modeling, simulation, and characterization*
 
 Misael's research is focused on the computational description of subsurface energy systems. He combines domain-specific knowledge with tools from machine learning, math and statistics, for accurate characterization and forecasting of complex dynamical systems in the subsurface. 
