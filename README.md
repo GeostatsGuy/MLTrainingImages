@@ -14,6 +14,8 @@ Please cite as:
 
 Pyrcz, Michael J. and Morales, Misael M. (2023). Machine Learning Training Images Repository (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7702128 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7702128.svg)](https://doi.org/10.5281/zenodo.7702128)
+
 The initial training images were published as:
 
 Pyrcz, M.J., Boisvert, J.B. and Deutsch, C.V., 2008, A library of training images for fluvial and deepwater reservoirs and associated code, Computers & Geosciences, 34(5), p. 542-560, https://doi.org/10.1016/j.cageo.2007.05.015.
